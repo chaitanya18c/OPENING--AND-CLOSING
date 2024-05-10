@@ -16,7 +16,10 @@ Step4: Similarly, perform closing operation and display the result
 
  
 ## Program:
-
+```python
+NAME : CHAITANYA P S
+REG : 212222230024
+```
 ``` Python
 # Import the necessary packages
 import numpy as np
